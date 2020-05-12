@@ -1,0 +1,106 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  background: url("https://s-media-cache-ak0.pinimg.com/564x/dd/2d/2e/dd2d2e7f6959675c0ec52bffe43e9f3a.jpg");
+  background-size:120px;
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+
+.carousel-inner{
+  padding-left:470px;
+  margin-top:25px;
+}
+
+#search{
+  margin-top:25px;
+}
+
+#style{
+  background-color:red;
+  color:violet;
+  font-weight:bold;
+}
+
+#style1{
+  background-color:orange;
+   color:indigo;
+  font-weight:bold;
+}
+
+#style2{
+  background-color:yellow;
+   color:blue;
+  font-weight:bold;
+}
+
+#style3{
+  background-color:green;
+   color:yellow;
+  font-weight:bold;
+}
+
+#style4{
+  background-color:blue;
+   color:orange;
+  font-weight:bold;
+}
+
+#style5{
+  background-color:indigo;
+   color:red;
+  font-weight:bold;
+}
+
+#style6{
+  background-color:violet;
+   color:yellow;
+  font-weight:bold;
+}
+
+#style7{
+  background-color:red;
+  color:violet;
+  font-weight:bold;
+}
+
+#style8{
+  background-color:orange;
+  color:indigo;
+  font-weight:bold;
+}
+
+#style9{
+  background-color:yellow;
+    color:blue;
+  font-weight:bold;
+}
+
+#style10{
+  background-color:green;
+    color:yellow;
+  font-weight:bold;
+}
+
+#style11{
+  background-color:blue;
+     color:orange;
+  font-weight:bold;
+}
+
+span{
+  margin-left:685px;
+  color:red;
+  font-weight:bold;
+}
+.navbar {
+  background-color:yellow;
+}
+
+.btn{
+  background-color:green;
+}
